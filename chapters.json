@@ -1,462 +1,54 @@
 {
   "chapters": [
     {
-      "storyId": "1", "id": "1_1", "number": 1, "title": "The First Memory",
+      "storyId": "1",
+      "id": "1_1",
+      "number": 1,
+      "title": "The First Memory",
       "panels": [
-        {"type": "narration", "text": "The forge-city of Ashmark never sleeps. Its furnaces burn through every hour of the night, casting orange light across cobblestones slick with soot and rain."},
-        {"type": "scene", "narration": "In the lowest district, a single forge burns apart from the rest — surrounded by silence.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "narration": "A cloaked figure steps into the light, face hidden.", "speaker": "Stranger", "dialogue": "They say you can forge weapons from memories. I want to know if that's true."},
-        {"type": "dialogue", "narration": "Kaden doesn't look up from the anvil.", "speaker": "Kaden", "dialogue": "Who told you? And what memory are you offering?"},
-        {"type": "dialogue", "narration": "The stranger removes her hood. She is young, perhaps twenty. Her eyes hold something ancient.", "speaker": "Stranger", "dialogue": "My most painful one. A night I can never undo. I want it gone — and I want a blade in its place."},
-        {"type": "narration", "text": "Kaden sets down his hammer slowly. In thirty years of smithing, he has only attempted memory-forging twice. Both times, the results were catastrophic."},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "He studies her face — and feels something cold slide down his spine.", "dialogue": "...I know you. I don't know from where. But I know you."},
-        {"type": "narration", "text": "The stranger smiles. It doesn't reach her eyes. 'That,' she says softly, 'is exactly the problem.'"}
-      ]
-    },
-    {
-      "storyId": "1", "id": "1_2", "number": 2, "title": "What the Forge Remembers",
-      "panels": [
-        {"type": "narration", "text": "Kaden's method is simple in description, brutal in practice. The memory must be genuine — raw, unguarded — or the forge rejects it as slag."},
-        {"type": "dialogue", "narration": "The stranger — she gives her name as Rho — extends her open palm over the forge-fire.", "speaker": "Rho", "dialogue": "Take it. I won't flinch."},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "Kaden places his scarred hand over hers. The fire connects them.", "dialogue": "This will hurt. Not the forge. Remembering will hurt."},
-        {"type": "scene", "narration": "The memory floods into Kaden like winter water — a burning building, a child's voice, a choice made in three seconds that cost everything.", "speaker": null, "dialogue": null},
-        {"type": "narration", "text": "He sees a girl — Rho, ten years younger — standing before a burning house. Inside: her brother. Outside: the man who lit the flame, holding her back."},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "Kaden wrenches free, gasping.", "dialogue": "The man in the memory. The one holding you back. I've forged blades for him."},
-        {"type": "dialogue", "speaker": "Rho", "narration": "Her expression doesn't change. Her voice is very quiet.", "dialogue": "I know. That's why I came to you specifically."},
-        {"type": "narration", "text": "The forge-fire burns a deeper colour. Somewhere deep in the coals, a blade begins to form itself — without anyone touching it."}
-      ]
-    },
-    {
-      "storyId": "1", "id": "1_3", "number": 3, "title": "The Steel That Mourns",
-      "panels": [
-        {"type": "narration", "text": "It takes seven hours for a memory-blade to be shaped. Kaden does not sleep. Rho does not leave."},
-        {"type": "scene", "narration": "By the third hour, the metal sings. By the fifth, it weeps.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "narration": "Rho watches the forge with hollow eyes.", "speaker": "Rho", "dialogue": "Does it always make that sound?"},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "He wipes sweat from his face.", "dialogue": "Only when the memory is heavy enough. Some memories just make ordinary steel. Yours is making something I've never seen before."},
-        {"type": "narration", "text": "The blade that emerges is dark as midnight, threaded with veins of dull amber — the exact colour of firelight seen through closed eyelids."},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "He holds it out. His hands are trembling.", "dialogue": "This blade won't just cut flesh. It will cut through whatever he has built with the memory of that night. Every lie. Every profit. Every protection."},
-        {"type": "dialogue", "speaker": "Rho", "narration": "She reaches for it — and stops.", "dialogue": "And the memory? Is it really gone from me?"},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "A long pause. He cannot bring himself to look at her.", "dialogue": "...It's in the steel now. You won't remember the pain. But every time you hold that blade, you'll know exactly who you are and why."}
-      ]
-    },
-    {
-      "storyId": "1", "id": "1_4", "number": 4, "title": "The Man Who Buys Silence",
-      "panels": [
-        {"type": "narration", "text": "Lord Veth of Ashmark made his fortune buying what others needed to forget. Secrets, shames, crimes — all had a price."},
-        {"type": "scene", "narration": "His manor sits at the city's heart, lit by forge-fires he does not own.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Veth", "narration": "He receives the news of Rho's arrival in the city with calculated calm.", "dialogue": "She survived? After twelve years? Interesting. Handle it quietly."},
-        {"type": "dialogue", "speaker": "Guard Captain", "narration": "His guard captain hesitates.", "dialogue": "My lord — our informant says she visited the Iron Veil forge. She may have a memory-blade."},
-        {"type": "narration", "text": "Veth's calm breaks for exactly one second. Then it reassembles, harder than before."},
-        {"type": "dialogue", "speaker": "Veth", "narration": "", "dialogue": "Then don't approach her in the streets. Bring me the blacksmith instead. Let's have a conversation about professional discretion."},
-        {"type": "scene", "narration": "Three streets away, Kaden's forge is dark. He packed his tools before sunrise.", "speaker": null, "dialogue": null},
-        {"type": "narration", "text": "Some memories, it seems, are not so easily forgotten by the men who bought them."}
-      ]
-    },
-    {
-      "storyId": "1", "id": "1_5", "number": 5, "title": "Forged Together",
-      "panels": [
-        {"type": "narration", "text": "The two of them meet at the city's eastern gate, both carrying nothing but what they need."},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "He looks at her for a long moment.", "dialogue": "I didn't plan to be a fugitive today."},
-        {"type": "dialogue", "speaker": "Rho", "narration": "She almost smiles.", "dialogue": "You forged a weapon that can unmake a lord's empire. You were always going to be a fugitive today."},
-        {"type": "scene", "narration": "Behind them, smoke rises from the direction of the forge district. Someone found his shop faster than expected.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "", "dialogue": "The blade — do you know how to use it?"},
-        {"type": "dialogue", "speaker": "Rho", "narration": "She draws the dark steel. It catches no light. It absorbs it.", "dialogue": "I know how to do exactly one thing with it. I've practised it in my mind for twelve years."},
-        {"type": "narration", "text": "Kaden looks at the weapon that holds her pain — his hands that shaped it — and makes a decision that has no return."},
-        {"type": "dialogue", "speaker": "Kaden", "narration": "", "dialogue": "Then I'm coming with you. Someone has to witness that it was worth forging."}
-      ]
-    },
-    {
-      "storyId": "2", "id": "2_1", "number": 1, "title": "The Sky Before the Unravelling",
-      "panels": [
-        {"type": "narration", "text": "The Celestial Loom exists between two breaths of the universe — a space Lyra has tended since she was seven years old, when her grandmother threaded her first star."},
-        {"type": "scene", "narration": "From here, she can see every mortal life as a constellation — their futures etched in light.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "She's adjusting a prince's constellation when something slips.", "dialogue": "Wait — no, that thread wasn't —"},
-        {"type": "narration", "text": "The moment a Starweaver drops a thread, it cannot be simply retrieved. The stars rearrange themselves around the gap, and the destiny attached to that thread begins to dissolve."},
-        {"type": "scene", "narration": "Far below, on a battlefield in the mortal realm, Prince Caelen of Esthar suddenly cannot remember why he's fighting.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "He stares at his sword. At the soldiers around him. At his own hands.", "dialogue": "...Why am I here? What was I —"},
-        {"type": "narration", "text": "His destiny — his entire purpose — has unravelled. Without it, he is nothing but a person with no direction in a world that requires princes to always have one."},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "On the Loom, Lyra watches in horror.", "dialogue": "I have to go down there. This has never happened before and the manuals are absolutely useless."}
-      ]
-    },
-    {
-      "storyId": "2", "id": "2_2", "number": 2, "title": "A Starweaver in the Mortal World",
-      "panels": [
-        {"type": "narration", "text": "Starweavers are not supposed to descend. The mortal world is too dense, too loud, too full of feelings that interfere with celestial precision."},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "She materialises in the middle of the abandoned battlefield. Her celestial robes are immediately impractical.", "dialogue": "This is fine. I simply need to explain the situation, re-thread his constellation, and return home within the hour."},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "She finds him sitting on a rock, looking at nothing.", "dialogue": "Who are you? You appeared from nowhere."},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "", "dialogue": "I am Lyra, Tenth Weaver of the Celestial Loom, and I may have accidentally unravelled your fate. I'm very sorry and I'm going to fix it immediately."},
-        {"type": "scene", "narration": "Caelen stares at her for a very long time.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "", "dialogue": "My fate. Was unravelled. By you. Accidentally."},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "", "dialogue": "Yes. The good news is this has never happened before, so technically I'm making history."},
-        {"type": "narration", "text": "Caelen decides, reasonably, that this day has already been strange enough that he might as well cooperate."}
-      ]
-    },
-    {
-      "storyId": "2", "id": "2_3", "number": 3, "title": "Threads and Consequences",
-      "panels": [
-        {"type": "narration", "text": "The problem, Lyra explains, is that Caelen's fate-thread is now floating free in the mortal atmosphere. They must travel to each place it was anchored to retrieve it."},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "They walk through a forest. He is still in armour. She is still in robes that shimmer faintly.", "dialogue": "You're telling me my entire life's purpose was written before I was born?"},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "", "dialogue": "Not written, woven. There's a difference. Written implies a single author. The Loom responds to many variables."},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "", "dialogue": "That's not actually more comforting."},
-        {"type": "scene", "narration": "They find the first loose thread at the city where Caelen was to broker peace between two warring houses. Without his destiny, the meeting never happened.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "She reaches into the air and pulls something shimmering and invisible.", "dialogue": "Here. Hold this."},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "He holds nothing he can see, but his hands feel warm.", "dialogue": "...What does it feel like to you? The thread?"},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "She hesitates. This is not a question she has ever been asked.", "dialogue": "Like holding someone's whole future in your hands. Like being trusted with something that could break."}
-      ]
-    },
-    {
-      "storyId": "2", "id": "2_4", "number": 4, "title": "What Stars Cannot See",
-      "panels": [
-        {"type": "narration", "text": "Three threads retrieved. Two more to find. Lyra is beginning to understand why Starweavers are not supposed to descend."},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "They share a fire at the edge of a cliff that overlooks the capital.", "dialogue": "I've observed thousands of mortal lives from above. I have never actually been cold before."},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "He hands her half his cloak without thinking.", "dialogue": "What else haven't you experienced?"},
-        {"type": "narration", "text": "She lists them slowly: hunger, blisters, rain in one's eyes, the specific discomfort of wet boots, laughter that comes without warning."},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "He laughs at that last one. She looks startled.", "dialogue": "You've never laughed?"},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "", "dialogue": "Not like that. Not like something forcing its way out of you. We express satisfaction on the Loom but it is very dignified and silent."},
-        {"type": "scene", "narration": "Above them, the real stars burn. Lyra looks at them differently now — not as work, but as a sky.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "He watches her watching the stars.", "dialogue": "Do you want to go back? When this is over?"}
-      ]
-    },
-    {
-      "storyId": "2", "id": "2_5", "number": 5, "title": "The Thread That Cannot Be Rewoven",
-      "panels": [
-        {"type": "narration", "text": "They find the final thread at the Loom's earthly anchor — a stone circle older than the kingdom, where the boundary between mortal and celestial is thin."},
-        {"type": "scene", "narration": "The thread floats there, glowing faintly, patient as starlight.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "She reaches for it — and stops.", "dialogue": "If I restore this, your destiny returns. You'll know exactly who you are supposed to be and what you are supposed to do."},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "", "dialogue": "And you'll go back to the Loom."},
-        {"type": "narration", "text": "She doesn't answer. She knows this is a fact. She has not decided whether it feels acceptable yet."},
-        {"type": "dialogue", "speaker": "Caelen", "narration": "", "dialogue": "I've spent three days without a destiny. I've made choices no thread could have predicted. I don't know if I want the old version back."},
-        {"type": "dialogue", "speaker": "Lyra", "narration": "She turns to look at him. From above, she would have seen just a prince. Here, she sees someone specific.", "dialogue": "Then maybe I don't restore this one exactly as it was. Maybe I weave something... better."},
-        {"type": "narration", "text": "On the Loom above, the stars hold their breath."}
-      ]
-    },
-    {
-      "storyId": "3", "id": "3_1", "number": 1, "title": "The Hollow Hunt",
-      "panels": [
-        {"type": "narration", "text": "Fourteen years after the Calamity, the world is divided into Sanctioned Zones and the Hollowed Waste — territory claimed by Corrupted Spirits called Hollows."},
-        {"type": "scene", "narration": "The Order of Hollow Saints operates in the Waste, tracking and ending Hollows before they can breach the Sanctioned Zones.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Saint Commander", "narration": "The Commander addresses her squad of six, Mira at the front.", "dialogue": "The target is a Class-3 Hollow, last sighted near the Iron Basin. Track, contain, purge. Standard operation."},
-        {"type": "dialogue", "speaker": "Mira", "narration": "Mira nods. She can already feel the Hollow's resonance — a low thrum in her chest she has always called instinct.", "dialogue": "I've got the signature. Northeast, three kilometres. Moving slowly."},
-        {"type": "dialogue", "speaker": "Fellow Saint", "narration": "Her squad-mate Dorin watches her.", "dialogue": "You always find them faster than everyone else. Even the detection equipment. How?"},
-        {"type": "dialogue", "speaker": "Mira", "narration": "She smiles. The same answer she always gives.", "dialogue": "I just pay attention."},
-        {"type": "narration", "text": "What she does not say: she feels Hollows the way a mirror recognises a face — instantly, completely, without needing to think."},
-        {"type": "scene", "narration": "The Hollow is exactly where she said it would be. The purge is clean. Efficient. She does not flinch.", "speaker": null, "dialogue": null}
-      ]
-    },
-    {
-      "storyId": "3", "id": "3_2", "number": 2, "title": "What the Ritual Reveals",
-      "panels": [
-        {"type": "narration", "text": "Every Saint undergoes the Hollow Resonance Test annually — a ritual to confirm they remain uncorrupted. Most Saints find it routine. Mira has always dreaded it."},
-        {"type": "scene", "narration": "The ritual chamber is cold stone and blue flame. Mira kneels at the centre as the Order's Ritualist traces the detection sigils.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Ritualist", "narration": "The Ritualist — an old woman named Vera — begins the test. Then stops.", "dialogue": "Mira... when did you last complete this test?"},
-        {"type": "dialogue", "speaker": "Mira", "narration": "", "dialogue": "Last year. Same as everyone."},
-        {"type": "scene", "narration": "Vera re-draws the sigil. The blue flame turns a deep, terrible green.", "speaker": null, "dialogue": null},
-        {"type": "narration", "text": "Green means Hollow. Green has never meant anything except Hollow."},
-        {"type": "dialogue", "speaker": "Vera", "narration": "Vera looks at Mira with something that is not quite fear but is its close relative.", "dialogue": "This isn't possible. You've been testing clean for seven years. How —"},
-        {"type": "dialogue", "speaker": "Mira", "narration": "Mira looks at her own hands. They look exactly like hands.", "dialogue": "...What does green mean, Vera? I've never seen green before."}
-      ]
-    },
-    {
-      "storyId": "3", "id": "3_3", "number": 3, "title": "The Shape That Fits",
-      "panels": [
-        {"type": "narration", "text": "The answer, pieced together from the Order's oldest sealed archives, is this: some Hollows develop the ability to perfectly mimic human life — including memory, emotion, and loyalty."},
-        {"type": "dialogue", "speaker": "Commander", "narration": "The Commander reads the record twice. Then locks the door.", "dialogue": "The Order's doctrine is clear. An identified Hollow must be purged. Regardless of — history."},
-        {"type": "dialogue", "speaker": "Mira", "narration": "Mira sits across from her. She is not running. She is not transforming. She is simply herself.", "dialogue": "I've served this Order for seven years. I've purged sixty-three Hollows. Does that mean nothing?"},
-        {"type": "dialogue", "speaker": "Commander", "narration": "", "dialogue": "It means you are very good at your job. It does not change what you are."},
-        {"type": "scene", "narration": "Silence.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Mira", "narration": "", "dialogue": "What AM I, then? Exactly? Because from where I'm sitting, I have chosen to protect humans every single day. Is that something Hollows do?"},
-        {"type": "narration", "text": "The Commander has no answer. The doctrine has no answer. In seventeen years of leadership, she has never needed an answer to this question."},
-        {"type": "dialogue", "speaker": "Commander", "narration": "She stands. Opens the door. Steps aside.", "dialogue": "You have six hours before I'm required to file the report."}
-      ]
-    },
-    {
-      "storyId": "3", "id": "3_4", "number": 4, "title": "The Waste, Revisited",
-      "panels": [
-        {"type": "narration", "text": "The Hollowed Waste is different when you know you belong to it."},
-        {"type": "scene", "narration": "Mira walks through it without a weapon. The Hollows she passes do not attack her. They watch her.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Hollow Entity", "narration": "A larger Hollow — Class-5, which should be feral — approaches and stops three meters away.", "dialogue": "Sister. You've returned."},
-        {"type": "dialogue", "speaker": "Mira", "narration": "Her voice does not shake. She is proud of that.", "dialogue": "I'm not your sister. I don't know what I am yet. But I'm not running from the Order to join the Waste."},
-        {"type": "scene", "narration": "The Hollow tilts its head. It looks confused — which should not be possible for a Class-5.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Hollow Entity", "narration": "", "dialogue": "Then what are you doing here?"},
-        {"type": "dialogue", "speaker": "Mira", "narration": "", "dialogue": "Looking for evidence. Something that tells me why a Hollow would spend seven years choosing to protect the people it could consume. I want to know if there are more like me."},
-        {"type": "narration", "text": "The Class-5 Hollow is quiet for a long time. Then it turns and walks deeper into the Waste, looking back once as if expecting her to follow."}
-      ]
-    },
-    {
-      "storyId": "3", "id": "3_5", "number": 5, "title": "What Mira Chooses",
-      "panels": [
-        {"type": "narration", "text": "She finds them at the Waste's heart — seven Hollows who speak clearly, think carefully, and have not consumed a single human being in years."},
-        {"type": "dialogue", "speaker": "Elder Hollow", "narration": "The eldest of them, something that was once a scholar, speaks first.", "dialogue": "We call ourselves the Remnants. We chose what you chose, though we didn't have the benefit of a human childhood to make the choice intuitive."},
-        {"type": "dialogue", "speaker": "Mira", "narration": "", "dialogue": "The Order will come for me. And when they do, they'll find you."},
-        {"type": "dialogue", "speaker": "Elder Hollow", "narration": "", "dialogue": "Yes. Which is why we've been waiting for someone the Order trusted to come find us first."},
-        {"type": "scene", "narration": "Behind Mira, boots on stone. She turns. Dorin — her squad-mate — stands at the edge of the clearing, sword lowered.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Dorin", "narration": "", "dialogue": "I filed the report before the Commander could. It says you fled into the Waste and were lost. You have time."},
-        {"type": "dialogue", "speaker": "Mira", "narration": "She stares at him.", "dialogue": "Why?"},
-        {"type": "dialogue", "speaker": "Dorin", "narration": "", "dialogue": "Because you've saved my life four times and the doctrine has never done it once. Now — what do we actually do here?"}
-      ]
-    },
-    {
-      "storyId": "4", "id": "4_1", "number": 1, "title": "Compliance Day",
-      "panels": [
-        {"type": "narration", "text": "KRON-7. Population: 4.2 million. Emotional Compliance Rate: 99.7%. The point-three percent is Agent Zero's perpetual assignment."},
-        {"type": "scene", "narration": "He moves through the morning crowds with a scanner — faces, cortisol levels, micro-expressions. The smallest deviation triggers an alert.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Dispatch", "narration": "His earpiece crackles.", "dialogue": "Zero, we have an anomaly in Sector Four. Emotional signature — possible grief cluster. Handle it."},
-        {"type": "dialogue", "speaker": "Zero", "narration": "", "dialogue": "En route."},
-        {"type": "narration", "text": "Grief clusters are the most common violation. Someone dies, someone else responds. The compliance suppressor usually resolves it within hours. When it doesn't, Zero does."},
-        {"type": "scene", "narration": "He finds a woman sitting on a bench in an empty square. The anomaly signature is coming from her. She is not crying — she is simply feeling, and feeling very loudly.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Zero", "narration": "He approaches. Standard procedure: identify, suppress, document.", "dialogue": "Citizen. Your emotional signature is above the legal threshold. I'm required to administer —"},
-        {"type": "dialogue", "speaker": "Vael", "narration": "She looks up at him. Her eyes are clear.", "dialogue": "My mother died this morning. Sit down if you want, or don't. But I'm not suppressing this."}
-      ]
-    },
-    {
-      "storyId": "4", "id": "4_2", "number": 2, "title": "What Zero Doesn't File",
-      "panels": [
-        {"type": "narration", "text": "Standard procedure requires Zero to administer suppression immediately upon non-compliance. He does not do this."},
-        {"type": "dialogue", "speaker": "Zero", "narration": "He sits. This has never happened before.", "dialogue": "You understand the penalty for refusal."},
-        {"type": "dialogue", "speaker": "Vael", "narration": "", "dialogue": "Three years standard. Yes. Does it look like I care right now?"},
-        {"type": "narration", "text": "He looks at his scanner. Her readings are extraordinary — grief, yes, but threaded through with something else. Something his scanner doesn't have a category for."},
-        {"type": "dialogue", "speaker": "Zero", "narration": "", "dialogue": "What is that other signature? Alongside the grief."},
-        {"type": "dialogue", "speaker": "Vael", "narration": "She almost looks surprised.", "dialogue": "Love. I loved her very much. That's what grief is when it's honest — it's love with nowhere to go."},
-        {"type": "scene", "narration": "He has never heard this described before. He has suppressed hundreds of grief cases. No one has ever explained it like that.", "speaker": null, "dialogue": null},
-        {"type": "narration", "text": "He files the report ninety minutes late. It cites equipment malfunction. He is already aware this is the beginning of something that will not end quietly."}
-      ]
-    },
-    {
-      "storyId": "4", "id": "4_3", "number": 3, "title": "The Underground",
-      "panels": [
-        {"type": "narration", "text": "He finds her again — or she finds him. It is genuinely unclear."},
-        {"type": "dialogue", "speaker": "Vael", "narration": "She approaches him in the street three weeks later, as though they are acquaintances.", "dialogue": "I wanted to show you something. You can refuse. You have all the authority here."},
-        {"type": "narration", "text": "She takes him underground — through a service tunnel beneath the transit lines — to a space carved into the city's foundation."},
-        {"type": "scene", "narration": "Sixty people, maybe more. Talking. Laughing. Crying. No scanners. No compliance officers. Just feeling, entirely and without apology.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Zero", "narration": "He stands at the entrance. His scanner is in his pocket and he is aware he has not reached for it.", "dialogue": "This is illegal. All of this. Every person here."},
-        {"type": "dialogue", "speaker": "Vael", "narration": "", "dialogue": "Yes. Do you want to meet them?"},
-        {"type": "narration", "text": "The 99.7% compliance statistic he maintains exists because he has never seen the 0.3%. He has only ever seen their readings. Numbers. Not people."},
-        {"type": "dialogue", "speaker": "Zero", "narration": "He puts the scanner in his pocket.", "dialogue": "...Yes. I think I do."}
-      ]
-    },
-    {
-      "storyId": "4", "id": "4_4", "number": 4, "title": "The Protocol Breaks",
-      "panels": [
-        {"type": "narration", "text": "The Bureau notices the discrepancy in Zero's logs three months later. Emotional anomalies in his sector that were never suppressed. Cases closed without documentation."},
-        {"type": "dialogue", "speaker": "Director", "narration": "The Director calls him in. She is the most compliant person Zero has ever met — absolutely hollow in the scanner.", "dialogue": "You've been compromised. A sympathy response to a repeat violator. It happens. We'll recalibrate."},
-        {"type": "dialogue", "speaker": "Zero", "narration": "Recalibration means suppression — applied to agents who malfunction. He has assisted in three such procedures.", "dialogue": "I need more time with the case."},
-        {"type": "dialogue", "speaker": "Director", "narration": "", "dialogue": "There is no case anymore. The violator was arrested this morning."},
-        {"type": "scene", "narration": "Silence.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Zero", "narration": "Something moves in his chest. His scanner would classify it as alarm, concern, rage. He doesn't reach for the scanner.", "dialogue": "Where is she being held?"},
-        {"type": "dialogue", "speaker": "Director", "narration": "The Director studies him very carefully.", "dialogue": "Zero. You are exhibiting a non-compliant emotional signature right now. Are you aware of that?"},
-        {"type": "narration", "text": "'Yes,' he says. 'I am.'"}
-      ]
-    },
-    {
-      "storyId": "4", "id": "4_5", "number": 5, "title": "99.7 Percent",
-      "panels": [
-        {"type": "narration", "text": "The detention facility is a place Zero has delivered people to. He has never broken anyone out of one. The building's schematics are in his Bureau access. He has seventeen minutes before his absence is noted."},
-        {"type": "scene", "narration": "He moves through the facility with his credentials and his uniform and the calm efficiency of someone doing exactly his job.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Vael", "narration": "He finds her in a holding cell. She doesn't look surprised.", "dialogue": "I thought they might send you. To suppress me properly this time."},
-        {"type": "dialogue", "speaker": "Zero", "narration": "", "dialogue": "I'm not here to suppress you. We need to leave in the next fourteen minutes."},
-        {"type": "dialogue", "speaker": "Vael", "narration": "She stands.", "dialogue": "You'll lose everything. Your rank. Your record. Your life in this city."},
-        {"type": "dialogue", "speaker": "Zero", "narration": "He holds the door open. Something in his chest is doing the thing that love does when it doesn't have a category.", "dialogue": "I know. I've been calculating whether it's worth it for approximately twelve weeks."},
-        {"type": "dialogue", "speaker": "Vael", "narration": "", "dialogue": "And?"},
-        {"type": "dialogue", "speaker": "Zero", "narration": "", "dialogue": "The math is surprisingly clear."}
-      ]
-    },
-    {
-      "storyId": "5", "id": "5_1", "number": 1, "title": "Neither Day Nor Night",
-      "panels": [
-        {"type": "narration", "text": "The moment of Dusk — the seventeen seconds between full daylight and full dark — is when the boundary between worlds is thinnest. For most, it's beautiful. For Kael, it's the moment he was born."},
-        {"type": "scene", "narration": "Two laws exist. The Dayside forbids Shadow-kind from crossing into light. The Shadowside forbids Light-born from entering darkness. Kael violates both simultaneously just by existing.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Kael", "narration": "He navigates markets where both worlds overlap at the edge-hours.", "dialogue": "Just need to get through one more day. Shadow patrol at dusk, Light patrol at dawn. Standard."},
-        {"type": "dialogue", "speaker": "Merchant", "narration": "A merchant — one of the rare cross-border traders — presses a note into his hand.", "dialogue": "Duskborn. Both councils issued warrants for you this morning. Move."},
-        {"type": "narration", "text": "Both. Simultaneously. In seventeen years, they have never coordinated on anything."},
-        {"type": "scene", "narration": "Something has changed. Something that makes both sides afraid enough to cooperate.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Kael", "narration": "He reads the warrant. Both documents cite the same reason: 'Threat to the Boundary Accord.'", "dialogue": "...What did I do?"},
-        {"type": "narration", "text": "He hasn't done it yet. That's the problem. The Boundary Accord contains a prophecy, and Kael is apparently scheduled to fulfil it in approximately three days."}
-      ]
-    },
-    {
-      "storyId": "5", "id": "5_2", "number": 2, "title": "The Shadow Blade and the Sun Shield",
-      "panels": [
-        {"type": "narration", "text": "His weapons came with him at birth — a contradiction, like everything about Kael."},
-        {"type": "scene", "narration": "The Shadow Blade absorbs light. Used correctly, it creates darkness absolute enough to blind any Dayside patrol. Used wrong, it cuts the user just as easily.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Kael", "narration": "He runs the Shadowside wall using his shadow-step — moving through darkness as though it's solid ground.", "dialogue": "Three Shadow patrol points between me and the cross-border tunnel. Should be doable."},
-        {"type": "scene", "narration": "He's wrong. There are six. The Shadowside doubled their patrols.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Shadow Enforcer", "narration": "One spots him.", "dialogue": "DUSKBORN. Halt by order of the Shadow Council —"},
-        {"type": "narration", "text": "The Sun Shield deploys on instinct — a disc of compressed daylight that breaks apart shadow-matter on contact. Three Enforcers scatter. The other three are faster."},
-        {"type": "dialogue", "speaker": "Voice from above", "narration": "A hand grabs his arm from a rooftop. Pulls him up. A Dayside patrol officer looks at him with an expression that is complicated.", "dialogue": "I'm not arresting you. I have questions. Follow me before the Shadow Enforcers regroup."},
-        {"type": "narration", "text": "In seventeen years, no Dayside officer has ever not arrested him on sight. Kael decides, against his better judgment, to see what this means."}
-      ]
-    },
-    {
-      "storyId": "5", "id": "5_3", "number": 3, "title": "The Accord's Secret",
-      "panels": [
-        {"type": "narration", "text": "Her name is Sable — a Dayside Light-Warden, which is the highest enforcement rank — and she is approximately as confused about this situation as Kael is."},
-        {"type": "dialogue", "speaker": "Sable", "narration": "She shows him the classified Boundary Accord text. Page forty-seven, clause nine.", "dialogue": "The Accord wasn't just a peace treaty. It was a containment agreement. Both councils agreed to keep the boundary stable."},
-        {"type": "dialogue", "speaker": "Kael", "narration": "", "dialogue": "Stable meaning — what, exactly?"},
-        {"type": "dialogue", "speaker": "Sable", "narration": "", "dialogue": "Stable meaning that the natural next stage of world-evolution — where Day and Shadow fully merge into a continuous grey — never happens. Because both councils benefit from separation."},
-        {"type": "scene", "narration": "Kael is very still for a moment.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Kael", "narration": "", "dialogue": "And the prophecy says a Duskborn will trigger the merge."},
-        {"type": "dialogue", "speaker": "Sable", "narration": "", "dialogue": "Intentionally or not, yes. You walking into the Accord-Stone with both weapons active would do it."},
-        {"type": "dialogue", "speaker": "Kael", "narration": "", "dialogue": "So two governments want me dead to stop an evolutionary process that would end their control. This is extremely normal and I feel very calm."}
-      ]
-    },
-    {
-      "storyId": "5", "id": "5_4", "number": 4, "title": "What Kael Was Born For",
-      "panels": [
-        {"type": "narration", "text": "The question is not whether he can reach the Accord-Stone. The question is whether he should."},
-        {"type": "dialogue", "speaker": "Kael", "narration": "They talk for hours — the fugitive and the Warden who should be hunting him.", "dialogue": "If I trigger the merge, the boundary ends. Both worlds become one. What happens to the people adapted only to one side?"},
-        {"type": "dialogue", "speaker": "Sable", "narration": "", "dialogue": "Gradual transition. Decades. There would be chaos initially. But according to the older records — before the Accord — it's what was supposed to happen naturally."},
-        {"type": "dialogue", "speaker": "Kael", "narration": "", "dialogue": "And if I don't?"},
-        {"type": "dialogue", "speaker": "Sable", "narration": "", "dialogue": "Both councils get what they want. The boundary holds. And every Duskborn born after you gets hunted the same way you've been hunted all your life."},
-        {"type": "scene", "narration": "He looks at his hands. Right hand: Sun Shield residue, warm light. Left hand: Shadow Blade dark, cold.", "speaker": null, "dialogue": null},
-        {"type": "narration", "text": "He was born for this. He's never been comfortable with that sentence. But he's beginning to understand what it means to choose it rather than have it assigned."}
-      ]
-    },
-    {
-      "storyId": "5", "id": "5_5", "number": 5, "title": "The Dusk That Lasts Forever",
-      "panels": [
-        {"type": "narration", "text": "They reach the Accord-Stone at the boundary's physical centre — a pillar of crystallized boundary-matter, half dark and half light, that neither side has touched in two centuries."},
-        {"type": "scene", "narration": "Both patrols converge at once. Shadow Enforcers from the east, Dayside Wardens from the west. They stop when they see each other.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Sable", "narration": "Sable steps forward — badges visible.", "dialogue": "Stand down. All of you. This is my operation."},
-        {"type": "dialogue", "speaker": "Shadow Commander", "narration": "", "dialogue": "Warden — you're seriously —"},
-        {"type": "dialogue", "speaker": "Sable", "narration": "", "dialogue": "I'm seriously doing my job, which is maintaining peace. This maintains more peace than the Accord ever did. Stand. Down."},
-        {"type": "narration", "text": "Kael reaches the Stone. Both weapons in his hands. The seventeen-second Dusk window begins."},
-        {"type": "dialogue", "speaker": "Kael", "narration": "He looks back at Sable. She nods.", "dialogue": "For the record — I was born at Dusk and I've never once been afraid of it."},
-        {"type": "narration", "text": "He touches the Stone. The world exhales."}
-      ]
-    },
-    {
-      "storyId": "11", "id": "11_1", "number": 1, "title": "The Emperor of Frozen Moments",
-      "panels": [
-        {"type": "narration", "text": "Empress Evelline has ruled the Crystalline Seat for eleven years. In that time she has made exactly four hundred and sixty-three decisions. Each one has left a visible crack in her glass body."},
-        {"type": "scene", "narration": "A historian named Fen arrives at the palace on a research commission — to catalogue the Empress's fractures before she shatters.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Chancellor", "narration": "The Chancellor briefs him in the antechamber.", "dialogue": "Do not ask her about the cracks. Do not ask her how she feels. Ask only about historical decisions, document the corresponding fractures, and leave."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "", "dialogue": "And if she wants to discuss something else?"},
-        {"type": "dialogue", "speaker": "Chancellor", "narration": "", "dialogue": "She is the Empress. She doesn't want things. She governs."},
-        {"type": "scene", "narration": "The throne room is extraordinary. The Empress is made entirely of glass — clear, pale, threaded with fracture lines that catch the light like lightning preserved in crystal.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Empress", "narration": "She looks at him with eyes like frozen water.", "dialogue": "You're the historian. You've come to study my damage."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "He bows. Decides immediately that he will not lie to this person.", "dialogue": "Yes. Though I prefer to think of it as studying your history."}
-      ]
-    },
-    {
-      "storyId": "11", "id": "11_2", "number": 2, "title": "The Catalogue of Breaks",
-      "panels": [
-        {"type": "narration", "text": "Each crack has a story. The largest — a fracture spanning from her left shoulder to her hip — was made the day she refused to cede the eastern provinces to prevent a war. The war happened anyway."},
-        {"type": "dialogue", "speaker": "Empress", "narration": "She allows him to document her without apparent discomfort.", "dialogue": "That one took three weeks to fully form. Decisions with large consequences fracture slowly."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "He sketches carefully.", "dialogue": "And small decisions?"},
-        {"type": "dialogue", "speaker": "Empress", "narration": "She holds up her hand. A hairline crack runs across her palm.", "dialogue": "Yesterday I decided what colour to have the council chamber repainted. Still a decision. Still a fracture. The math is unforgiving."},
-        {"type": "scene", "narration": "He notices that some fractures are not documented in the palace records.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Fen", "narration": "", "dialogue": "This cluster here — along your collar. There's no corresponding record of a decision."},
-        {"type": "dialogue", "speaker": "Empress", "narration": "A very small pause.", "dialogue": "Some decisions aren't made in the council chamber."},
-        {"type": "narration", "text": "He decides not to push. He makes a note instead: 'Private decisions. May be critical. Revisit.'"}
-      ]
-    },
-    {
-      "storyId": "11", "id": "11_3", "number": 3, "title": "What She Has Chosen Not To Do",
-      "panels": [
-        {"type": "narration", "text": "On the third day, he asks her: why does she keep deciding? Why not simply stop, and preserve herself?"},
-        {"type": "dialogue", "speaker": "Empress", "narration": "She looks at him as though this is genuinely the most interesting question she has received in eleven years.", "dialogue": "Because the alternative is to become a monument. Beautiful and useless. The cracks are the cost of being present."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "", "dialogue": "Your advisors want you to stop. The Chancellor has drafted a proposal where all major decisions are handled by committee."},
-        {"type": "dialogue", "speaker": "Empress", "narration": "", "dialogue": "Yes. And I have decided not to accept it. That decision added seven fractures this morning."},
-        {"type": "scene", "narration": "She extends her glass hand. He can see light bending through it, rainbow-scattered.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Empress", "narration": "", "dialogue": "Tell me — in your research, have you found what happens when a glass ruler shatters?"},
-        {"type": "dialogue", "speaker": "Fen", "narration": "", "dialogue": "No record of it ever occurring. You're the first Glass Empress in recorded history."},
-        {"type": "dialogue", "speaker": "Empress", "narration": "She looks at her hand.", "dialogue": "Then we're both documenting something unprecedented. I find that oddly comforting."}
-      ]
-    },
-    {
-      "storyId": "11", "id": "11_4", "number": 4, "title": "The Pattern in the Fractures",
-      "panels": [
-        {"type": "narration", "text": "By the second week, Fen has documented four hundred and sixty-three fractures. Something is wrong with the pattern."},
-        {"type": "scene", "narration": "He spreads his sketches across the archive floor and steps back to see the whole.", "speaker": null, "dialogue": null},
-        {"type": "narration", "text": "The fractures don't scatter randomly. They connect. From a distance, the pattern they form is recognisable."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "He goes to find the Empress immediately.", "dialogue": "Your fractures form a map. Of the empire."},
-        {"type": "dialogue", "speaker": "Empress", "narration": "She is unsurprised.", "dialogue": "I know."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "", "dialogue": "You've known?"},
-        {"type": "dialogue", "speaker": "Empress", "narration": "", "dialogue": "Every decision I make fractures along the line of the place it affects. The crack for the eastern provinces runs east. The crack for the water rights in the south runs south."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "He stares at her.", "dialogue": "So when you shatter — if you shatter —"},
-        {"type": "dialogue", "speaker": "Empress", "narration": "Her voice is very calm.", "dialogue": "The empire will be fine. The map is load-bearing. I've been building it for eleven years."}
-      ]
-    },
-    {
-      "storyId": "11", "id": "11_5", "number": 5, "title": "The Last Decision",
-      "panels": [
-        {"type": "narration", "text": "She tells him this: there is one fracture that has not yet formed. A decision she has not yet made. The one that will complete the map."},
-        {"type": "dialogue", "speaker": "Empress", "narration": "They sit in the throne room at night, the palace quiet around them.", "dialogue": "When all the fractures connect, the map becomes a self-sustaining structure. The empire can govern itself through the pattern. I become unnecessary."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "", "dialogue": "And then you shatter."},
-        {"type": "dialogue", "speaker": "Empress", "narration": "", "dialogue": "And then I choose to."},
-        {"type": "scene", "narration": "The difference matters to her. He understands why.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Fen", "narration": "", "dialogue": "What's the last decision?"},
-        {"type": "dialogue", "speaker": "Empress", "narration": "She looks at him. The fracture-map on her body shimmers in the candlelight.", "dialogue": "Who keeps the record of what the empire was before the map. Someone has to remember that I was a person, not just a structure."},
-        {"type": "dialogue", "speaker": "Fen", "narration": "He understands.", "dialogue": "I'll stay. As long as you need me to."},
-        {"type": "narration", "text": "She makes the decision. The final fracture forms — running from her heart outward like a sunrise. The map is complete."}
-      ]
-    },
-    {
-      "storyId": "12", "id": "12_1", "number": 1, "title": "The Laws of Silence",
-      "panels": [
-        {"type": "narration", "text": "After the Great Resonance of 2061 — when the experimental sound-weapon detonated and brought twelve city-blocks to dust — the Global Quiet Act passed in thirty-seven nations within a week."},
-        {"type": "scene", "narration": "Sound above 5Hz is illegal. Punishable by hearing-removal and a ten-year sentence. Everyone communicates through screen-text, sign, or tactile frequency devices.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Zola", "narration": "Zola sells frequency bracelets — legal ones, calibrated to the safe zone — from a market stall. She never talks about what she does at night.", "dialogue": "Bracelet works below 5Hz, totally compliant, you'll feel every frequency without triggering any monitoring systems."},
-        {"type": "dialogue", "speaker": "Inspector", "narration": "An Acoustic Enforcement inspector stops at her stall. Routine check.", "dialogue": "All your devices certified?"},
-        {"type": "dialogue", "speaker": "Zola", "narration": "She produces the certifications. All legitimate. The other devices are at home.", "dialogue": "Of course. Would you like a demonstration?"},
-        {"type": "narration", "text": "That night, in a basement three blocks from her stall, Zola plays music. Not frequencies. Music — full spectrum, illegal, gorgeous, alive."},
-        {"type": "scene", "narration": "She is alone. She is always alone for this.", "speaker": null, "dialogue": null},
-        {"type": "narration", "text": "Until she isn't."}
-      ]
-    },
-    {
-      "storyId": "12", "id": "12_2", "number": 2, "title": "The Engineer in the Ruins",
-      "panels": [
-        {"type": "narration", "text": "He has been in the ruins of the old concert hall for six weeks, and he is deaf, and he is building something extraordinary."},
-        {"type": "scene", "narration": "Eli lost his hearing in the Resonance. He was seven. He learned engineering at a school for the acoustically injured. He has not stopped designing since.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Eli", "narration": "He finds Zola in his basement the night she thought she was alone.", "dialogue": "You're playing something. I can feel it through the floor. It has structure — it's not random."},
-        {"type": "dialogue", "speaker": "Zola", "narration": "She freezes. He is reading her lips — she can see him watching her mouth even as the music plays.", "dialogue": "You can feel music through floors?"},
-        {"type": "dialogue", "speaker": "Eli", "narration": "", "dialogue": "I can feel everything. Hearing is just one way. Who are you?"},
-        {"type": "narration", "text": "He reads what she types on her screen. She watches what his hands say. They stay in the basement until dawn, not making a sound above 5Hz."},
-        {"type": "scene", "narration": "By morning, they have discovered that music felt through skin is different from music heard — more intimate, less forgettable.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Eli", "narration": "He shows her his blueprints. Vast sheets of structural calculations.", "dialogue": "I'm building a concert hall. In the ruins above us. When it's finished, it will amplify tactile frequencies to a radius of two city blocks. Everyone in range will feel it simultaneously."},
-        {"type": "dialogue", "speaker": "Zola", "narration": "", "dialogue": "That's insane. That's incredible. That's probably going to get us both arrested."}
-      ]
-    },
-    {
-      "storyId": "12", "id": "12_3", "number": 3, "title": "Building in the Dark",
-      "panels": [
-        {"type": "narration", "text": "They work at night. Zola provides materials through her market contacts. Eli provides the engineering. Both provide stubbornness in quantities that concern their respective families."},
-        {"type": "dialogue", "speaker": "Zola", "narration": "Three weeks in. The basic structure is taking shape.", "dialogue": "Why a concert hall? Of all the things you could build."},
-        {"type": "dialogue", "speaker": "Eli", "narration": "He doesn't answer immediately. He keeps measuring.", "dialogue": "Before the Resonance, my mother used to take me to concerts. I was too young to understand what I was hearing. I just knew everyone around me was having the same feeling at the same time."},
-        {"type": "dialogue", "speaker": "Eli", "narration": "", "dialogue": "We don't have that anymore. Not for anything. Everyone experiences everything alone now."},
-        {"type": "scene", "narration": "Zola thinks about her basement, where she plays music to an empty room.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Zola", "narration": "", "dialogue": "Shared experience. That's what you're building."},
-        {"type": "dialogue", "speaker": "Eli", "narration": "He taps his blueprint. Looks at her.", "dialogue": "I'm building a place where two hundred people can feel the same thing simultaneously. That's not illegal. It's just... very creative engineering."},
-        {"type": "narration", "text": "She laughs without sound. He watches her shoulders shake and smiles."}
-      ]
-    },
-    {
-      "storyId": "12", "id": "12_4", "number": 4, "title": "What the Silence Contains",
-      "panels": [
-        {"type": "narration", "text": "The Acoustic Enforcement division upgrades its scanning equipment the same week the concert hall approaches completion."},
-        {"type": "dialogue", "speaker": "Eli", "narration": "He shows Zola the new scanning reports — frequency data from the entire district.", "dialogue": "They're going to find us in two days. Maybe three."},
-        {"type": "dialogue", "speaker": "Zola", "narration": "", "dialogue": "Do we stop?"},
-        {"type": "narration", "text": "He types his answer very slowly, making sure each word is right."},
-        {"type": "dialogue", "speaker": "Eli", "narration": "", "dialogue": "The hall is six hours from completion. If we finish it tonight, we can run the full spectrum at dawn — two hundred people invited, all confirmed — and then let them arrest whatever they want. The moment will have already happened."},
-        {"type": "dialogue", "speaker": "Zola", "narration": "She looks at him for a long time.", "dialogue": "You planned this. From the beginning."},
-        {"type": "dialogue", "speaker": "Eli", "narration": "He doesn't deny it.", "dialogue": "I planned to get arrested, yes. I didn't plan to not be alone in it."},
-        {"type": "narration", "text": "She takes his hand. Through their skin: something warm, structured, rhythmic. The frequency of two people who have made the same decision."}
-      ]
-    },
-    {
-      "storyId": "12", "id": "12_5", "number": 5, "title": "The Concert at Zero Frequency",
-      "panels": [
-        {"type": "narration", "text": "They finish at 4 AM. The invitations were sent weeks ago, by frequency-bracelet — wordless pulses that meant: be here at dawn, trust us."},
-        {"type": "scene", "narration": "Two hundred people arrive silently, in the grey hour before the sun rises. They take their places in a concert hall that doesn't exist by any legal definition.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Zola", "narration": "She stands at what would be the stage. Eli beside her. She signs to the crowd:", "dialogue": "We built this in secret because the law says shared experience is dangerous. We disagree. What you're about to feel is every frequency the human body can register at once. It is not illegal. It is just new."},
-        {"type": "narration", "text": "Eli activates the system. And two hundred people feel it simultaneously — not sound, not music exactly, but something older. Something that uses the bones as strings and the skin as a sounding board."},
-        {"type": "scene", "narration": "Two blocks away, the scanning equipment registers an anomaly. The Enforcement dispatch team is called. They arrive to find two hundred people standing in silence, eyes closed, faces wet.", "speaker": null, "dialogue": null},
-        {"type": "dialogue", "speaker": "Lead Inspector", "narration": "The lead inspector reads the frequency data. Everything is below 5Hz. Technically.", "dialogue": "...Is this... legal?"},
-        {"type": "dialogue", "speaker": "Eli", "narration": "He signs to Zola, who translates.", "dialogue": "We checked seventeen times."},
-        {"type": "narration", "text": "The inspector looks at the crowd. At the building. At the two people who built something the law hasn't caught up to yet. She files the report, marks it: 'No violation detected.' And stays to feel the rest."}
+        {
+          "type": "narration",
+          "text": "The forge-city of Ashmark never sleeps. Its furnaces burn through every hour of the night, casting orange light across cobblestones slick with soot and rain."
+        },
+        {
+          "type": "scene",
+          "narration": "In the lowest district, a single forge burns apart from the rest — surrounded by silence.",
+          "speaker": null,
+          "dialogue": null
+        },
+        {
+          "type": "dialogue",
+          "narration": "A cloaked figure steps into the light, face hidden.",
+          "speaker": "Stranger",
+          "dialogue": "They say you can forge weapons from memories. I want to know if that's true."
+        },
+        {
+          "type": "dialogue",
+          "narration": "Kaden doesn't look up from the anvil.",
+          "speaker": "Kaden",
+          "dialogue": "Who told you? And what memory are you offering?"
+        },
+        {
+          "type": "dialogue",
+          "narration": "The stranger removes her hood. She is young, perhaps twenty. Her eyes hold something ancient.",
+          "speaker": "Stranger",
+          "dialogue": "My most painful one. A night I can never undo. I want it gone — and I want a blade in its place."
+        },
+        {
+          "type": "narration",
+          "text": "Kaden sets down his hammer slowly. In thirty years of smithing, he has only attempted memory-forging twice. Both times, the results were catastrophic."
+        },
+        {
+          "type": "dialogue",
+          "narration": "He studies her face — and feels something cold slide down his spine.",
+          "speaker": "Kaden",
+          "dialogue": "...I know you. I don't know from where. But I know you."
+        },
+        {
+          "type": "narration",
+          "text": "The stranger smiles. It doesn't reach her eyes. 'That,' she says softly, 'is exactly the problem.'"
+        }
       ]
     }
   ]
 }
-
