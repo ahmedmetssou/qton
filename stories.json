@@ -179,5 +179,20 @@
     "status": "Ongoing",
     "updatedAt": "2026-05-18T00:00:00.000Z"
   }
+   {
+    "id": "13",
+    "title": "hamada test y",
+    "author": "Toom mar1",
+    "genres": ["Sci-Fi", "Romance"],
+    "description": "khachnba all ll sound above 5Hz was permanently outlawed. Musician Zola communicates through tactile frequencies — vibrations felt through skin instead of heard. When she meets Eli, a deaf engineer building an illegal concert hall in the ruins, their forbidden love song is felt rather than heard, and it is changing everything.",
+    "coverGradient": ["0xFF1A237E", "0xFF00BCD4"],
+    "chapterCount": 5,
+    "rating": 5,
+    "views": 56666,
+    "isTrending": true,
+    "isNew": false,
+    "status": "Ongoing",
+    "updatedAt": "2026-05-18T00:00:00.000Z"
+  }
 ]
 
