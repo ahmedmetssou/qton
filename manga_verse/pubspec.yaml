@@ -1,0 +1,35 @@
+name: manga_verse
+description: A modern manga/webtoon reader app with original stories.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_riverpod: ^2.4.9
+  go_router: ^13.2.0
+  hive_flutter: ^1.1.0
+  shared_preferences: ^2.2.2
+  cached_network_image: ^3.3.1
+  flutter_animate: ^4.5.0
+  shimmer: ^3.0.0
+  smooth_page_indicator: ^1.1.0
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.8
+  http: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/stories.json
+    - assets/data/chapters.json
