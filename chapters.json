@@ -4,688 +4,125 @@
       "storyId": "1",
       "id": "1_1",
       "number": 1,
-      "title": "The First Memory",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "The forge-city of Ashmark never sleeps. Its furnaces burn through every hour of the night, casting orange light across cobblestones slick with soot and rain."
-        },
-        {
-          "type": "scene",
-          "narration": "In the lowest district, a single forge burns apart from the rest — surrounded by silence.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "A cloaked figure steps into the light, face hidden.",
-          "speaker": "Stranger",
-          "dialogue": "They say you can forge weapons from memories. I want to know if that's true."
-        },
-        {
-          "type": "dialogue",
-          "narration": "Kaden doesn't look up from the anvil.",
-          "speaker": "Kaden",
-          "dialogue": "Who told you? And what memory are you offering?"
-        },
-        {
-          "type": "dialogue",
-          "narration": "The stranger removes her hood. She is young, perhaps twenty. Her eyes hold something ancient.",
-          "speaker": "Stranger",
-          "dialogue": "My most painful one. A night I can never undo. I want it gone — and I want a blade in its place."
-        },
-        {
-          "type": "narration",
-          "text": "Kaden sets down his hammer slowly. In thirty years of smithing, he has only attempted memory-forging twice. Both times, the results were catastrophic."
-        },
-        {
-          "type": "dialogue",
-          "narration": "He studies her face — and feels something cold slide down his spine.",
-          "speaker": "Kaden",
-          "dialogue": "...I know you. I don't know from where. But I know you."
-        },
-        {
-          "type": "narration",
-          "text": "The stranger smiles. It doesn't reach her eyes. 'That,' she says softly, 'is exactly the problem.'"
-        }
+      "title": "The Awakening",
+      "images": [
+        "assets/chapters/1_1/1.jpg",
+        "assets/chapters/1_1/2.jpg",
+        "assets/chapters/1_1/3.jpg",
+        "assets/chapters/1_1/4.jpg",
+        "assets/chapters/1_1/5.jpg"
       ]
     },
     {
       "storyId": "1",
       "id": "1_2",
       "number": 2,
-      "title": "What the Hammer Hears",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "Memory-forging requires three things: a willing donor, a clear image of grief, and a smith with no fear of what he might see."
-        },
-        {
-          "type": "dialogue",
-          "narration": "Kaden pours a cup of cold tea, more out of habit than thirst.",
-          "speaker": "Kaden",
-          "dialogue": "Before I agree to anything — tell me the shape of it. Not the memory itself. Just its shape."
-        },
-        {
-          "type": "dialogue",
-          "narration": "The stranger sits across the fire. She does not blink.",
-          "speaker": "Stranger",
-          "dialogue": "A house. A locked door. A name I called out and no one answered."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Kaden",
-          "dialogue": "That's loss, not pain. They're different metals.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "Something shifts in her expression — just for a moment.",
-          "speaker": "Stranger",
-          "dialogue": "Then I'll give you the rest. A fire. Smoke so thick I couldn't see my hands. And the reason I didn't go back in."
-        },
-        {
-          "type": "narration",
-          "text": "The fire between them crackles. Kaden stares into it for a long moment."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Kaden",
-          "dialogue": "That's guilt. Guilt forges the sharpest blades. And the most dangerous ones.",
-          "narration": "He stands, moving to the forge."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Kaden",
-          "dialogue": "I'll need your name.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Stranger",
-          "dialogue": "Vael.",
-          "narration": "A pause."
-        },
-        {
-          "type": "narration",
-          "text": "Kaden's hand freezes over the coals. That name. He knows that name. He carved it once — into a headstone, seven years ago, in the rain."
-        }
+      "title": "The First Breach",
+      "images": [
+        "assets/chapters/1_2/1.jpg",
+        "assets/chapters/1_2/2.jpg",
+        "assets/chapters/1_2/3.jpg",
+        "assets/chapters/1_2/4.jpg"
+      ]
+    },
+    {
+      "storyId": "1",
+      "id": "1_3",
+      "number": 3,
+      "title": "Shadows Beyond",
+      "images": [
+        "assets/chapters/1_3/1.jpg",
+        "assets/chapters/1_3/2.jpg",
+        "assets/chapters/1_3/3.jpg",
+        "assets/chapters/1_3/4.jpg",
+        "assets/chapters/1_3/5.jpg",
+        "assets/chapters/1_3/6.jpg"
+      ]
+    },
+    {
+      "storyId": "1",
+      "id": "1_4",
+      "number": 4,
+      "title": "The Iron Truth",
+      "images": [
+        "assets/chapters/1_4/1.jpg",
+        "assets/chapters/1_4/2.jpg",
+        "assets/chapters/1_4/3.jpg"
+      ]
+    },
+    {
+      "storyId": "1",
+      "id": "1_5",
+      "number": 5,
+      "title": "Rising Power",
+      "images": [
+        "assets/chapters/1_5/1.jpg",
+        "assets/chapters/1_5/2.jpg",
+        "assets/chapters/1_5/3.jpg",
+        "assets/chapters/1_5/4.jpg",
+        "assets/chapters/1_5/5.jpg"
       ]
     },
     {
       "storyId": "2",
       "id": "2_1",
       "number": 1,
-      "title": "The Thread Appears",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "It starts the night Sera turns seventeen. A thread, thin as spider silk and bright as the moon, wrapped three times around her left wrist."
-        },
-        {
-          "type": "scene",
-          "narration": "She sits up in bed and stares at it. It doesn't hurt. It doesn't feel like anything at all.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "Her roommate Mika rolls over and squints.",
-          "speaker": "Mika",
-          "dialogue": "Sera? Why are you up at 3am holding your own wrist?"
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Sera",
-          "dialogue": "Do you see this? The thread?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Mika",
-          "dialogue": "...I see you pointing at your own arm. Go to sleep.",
-          "narration": "Mika pulls her blanket over her head."
-        },
-        {
-          "type": "narration",
-          "text": "Sera watches the thread all night. By dawn, it has moved — pulling slightly north, toward the edge of town."
-        },
-        {
-          "type": "dialogue",
-          "narration": "She follows it after school. Down familiar streets, then unfamiliar ones.",
-          "speaker": "Sera",
-          "dialogue": "(to herself) This is how people end up on the news..."
-        },
-        {
-          "type": "scene",
-          "narration": "The thread leads her to a rooftop garden above an abandoned print shop. And to a boy sitting on a rusted bench, staring at something on his own wrist.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "He looks up. His eyes widen.",
-          "speaker": "Boy",
-          "dialogue": "You can see yours too."
-        },
-        {
-          "type": "narration",
-          "text": "It isn't a question."
-        }
+      "title": "Neon Lights",
+      "images": [
+        "assets/chapters/2_1/1.jpg",
+        "assets/chapters/2_1/2.jpg",
+        "assets/chapters/2_1/3.jpg",
+        "assets/chapters/2_1/4.jpg"
       ]
     },
     {
       "storyId": "2",
       "id": "2_2",
       "number": 2,
-      "title": "Countdown",
-      "panels": [
-        {
-          "type": "dialogue",
-          "narration": "The boy's name is Ren. He has known about the threads since he was twelve.",
-          "speaker": "Ren",
-          "dialogue": "I can see everyone's. Not just my own. Yours is... unusually bright."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Sera",
-          "dialogue": "What does that mean?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Ren",
-          "dialogue": "I'm not sure. Most threads are faint — like veins you can barely see. Yours looks like it's lit from inside.",
-          "narration": "He hesitates, looking at the thread between them."
-        },
-        {
-          "type": "narration",
-          "text": "Sera notices it then. Their threads are connected — a single line from her wrist to his."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Sera",
-          "dialogue": "Is that normal?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Ren",
-          "dialogue": "No. I have never seen that before.",
-          "narration": "He says it too carefully."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Sera",
-          "dialogue": "You're hiding something.",
-          "narration": null
-        },
-        {
-          "type": "narration",
-          "text": "A long pause. The city hums below them."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Ren",
-          "dialogue": "When two threads connect like this, they share a timer. When it reaches zero — one of them disappears.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Sera",
-          "dialogue": "Disappears. As in...?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Ren",
-          "dialogue": "I don't know. No one I've seen come back.",
-          "narration": "He finally looks at her."
-        },
-        {
-          "type": "narration",
-          "text": "Sera looks down at the thread — still bright, still warm. Already a part of her, though she met him five minutes ago."
-        }
-      ]
-    },
-    {
-      "storyId": "3",
-      "id": "3_1",
-      "number": 1,
-      "title": "Rank Zero",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "The Ranking Ceremony happens on your fifth birthday. A needle, a drop of blood, a number burned into your skin before you're old enough to understand what it means."
-        },
-        {
-          "type": "scene",
-          "narration": "Yara remembers hers clearly. The machine humming. The technician's face going still. The long silence.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "The technician called in a supervisor. Then another. They spoke in low voices.",
-          "speaker": "Technician",
-          "dialogue": "The scanner's broken. Run it again."
-        },
-        {
-          "type": "narration",
-          "text": "It wasn't broken. The result was always the same: Null. No rank. No classification. An error the system had no category for."
-        },
-        {
-          "type": "narration",
-          "text": "Fourteen years later, Yara has learned to make herself invisible. No rank means no job, no housing allocation, no legal existence. But it also means no record."
-        },
-        {
-          "type": "dialogue",
-          "narration": "She is picking a lock in a government archive when a woman in a black uniform steps out of the shadows.",
-          "speaker": "Woman",
-          "dialogue": "Yara. Null designation. We've been looking for you for three years."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Yara",
-          "dialogue": "I'm hard to find.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Woman",
-          "dialogue": "That's exactly why we need you.",
-          "narration": null
-        }
-      ]
-    },
-    {
-      "storyId": "4",
-      "id": "4_1",
-      "number": 1,
-      "title": "The Taster",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "The imperial palace has one hundred and twelve kitchens. Lian has memorized every one — not their locations, but their poisons."
-        },
-        {
-          "type": "scene",
-          "narration": "She sits at the head taster's table, a bowl of broth in front of her. Three court officials watch from behind a screen.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "The senior official's voice is flat.",
-          "speaker": "Official",
-          "dialogue": "The position is simple. You eat first. If you survive, the Emperor eats. If you don't — well. That tells us something too."
-        },
-        {
-          "type": "dialogue",
-          "narration": "Lian picks up the spoon.",
-          "speaker": "Lian",
-          "dialogue": "What's the mortality rate for this position?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Official",
-          "dialogue": "High enough that we stopped keeping records.",
-          "narration": null
-        },
-        {
-          "type": "narration",
-          "text": "Lian sips the broth. Notes the faint bitterness under the salt — reedbloom extract, most likely, mixed in just before serving. A delayed toxin. Meant to look like natural causes."
-        },
-        {
-          "type": "narration",
-          "text": "She has been taking reedbloom in small doses since she was nine. Her body metabolizes it like water."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Lian",
-          "dialogue": "Delicious.",
-          "narration": "She sets down the spoon."
-        },
-        {
-          "type": "narration",
-          "text": "The officials exchange a glance. They have already decided she is disposable. They have no idea what they have just let inside the palace walls."
-        }
+      "title": "Corporate War",
+      "images": [
+        "assets/chapters/2_2/1.jpg",
+        "assets/chapters/2_2/2.jpg",
+        "assets/chapters/2_2/3.jpg",
+        "assets/chapters/2_2/4.jpg",
+        "assets/chapters/2_2/5.jpg"
       ]
     },
     {
       "storyId": "5",
       "id": "5_1",
       "number": 1,
-      "title": "The Crash",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "The last thing Dax remembers before the impact: the rev of his engine at 280 kph, the rain, and the headlights of a car that shouldn't have been there."
-        },
-        {
-          "type": "scene",
-          "narration": "He wakes up three weeks later in a hospital room that smells like antiseptic and unspoken apologies.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "The doctor doesn't waste time.",
-          "speaker": "Doctor",
-          "dialogue": "The damage to the nerves in your right hand is permanent. You'll have limited grip. Sensitivity is gone in the first two fingers."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Dax",
-          "dialogue": "My car.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Doctor",
-          "dialogue": "...I'm sorry?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Dax",
-          "dialogue": "What happened to my car.",
-          "narration": "His voice is flat. Controlled."
-        },
-        {
-          "type": "narration",
-          "text": "The doctor leaves. His crew doesn't visit. His phone has forty-three unread messages and he reads none of them."
-        },
-        {
-          "type": "narration",
-          "text": "He spends the next two months relearning how to hold a pen. Then a wrench. Then, finally, a wheel."
-        },
-        {
-          "type": "dialogue",
-          "narration": "His old mechanic, Priya, finds him in a junkyard at midnight, sitting in the shell of a gutted chassis.",
-          "speaker": "Priya",
-          "dialogue": "You're going to hurt yourself worse.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Dax",
-          "dialogue": "Good. That means it still works.",
-          "narration": null
-        }
-      ]
-    },
-    {
-      "storyId": "6",
-      "id": "6_1",
-      "number": 1,
-      "title": "The Throne That Bleeds",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "The Glass Throne of Vel was created by the first king as a safeguard — a seat that would shatter beneath any ruler who lied. He died on it within the hour."
-        },
-        {
-          "type": "narration",
-          "text": "Since then, it has sat empty. Aspirants touch it at their coronation. Most walk away bleeding. Some don't walk away at all."
-        },
-        {
-          "type": "scene",
-          "narration": "Lady Mireille stands before it alone. She was not supposed to be here — she slipped away from her assigned seat in the gallery.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "narration",
-          "text": "She removes her glove. Presses her bare palm flat against the armrest."
-        },
-        {
-          "type": "narration",
-          "text": "Nothing. No blood. No crack. The throne hums faintly — as if recognizing her."
-        },
-        {
-          "type": "dialogue",
-          "narration": "A voice from the doorway. Lord Casien, the King's Advisor, stands in the shadow.",
-          "speaker": "Casien",
-          "dialogue": "Well. That is unexpected."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Mireille",
-          "dialogue": "You were watching.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Casien",
-          "dialogue": "I watch everything in this palace. Put your glove back on. If the court sees this before I understand what it means — both of us are in danger.",
-          "narration": null
-        },
-        {
-          "type": "narration",
-          "text": "Mireille looks at her unmarked hand. She has spent twenty years carefully cultivating the image of someone with nothing to hide. Maybe she was too good at it."
-        }
-      ]
-    },
-    {
-      "storyId": "7",
-      "id": "7_1",
-      "number": 1,
-      "title": "The First Double",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "Detective Noa keeps a journal. Has since she was sixteen. Private, handwritten, never photographed. The kind of record that only exists in one place."
-        },
-        {
-          "type": "scene",
-          "narration": "The victim is found on a Tuesday. Mid-forties, no signs of struggle, window locked from inside. His last message reads: I already said goodbye to everyone who mattered.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "narration",
-          "text": "Noa notes the phrase. Moves on. Files it as unremarkable."
-        },
-        {
-          "type": "narration",
-          "text": "The second victim is found nine days later. Same cause. Same type of final message. Word for word identical."
-        },
-        {
-          "type": "dialogue",
-          "narration": "Her partner, Dresh, taps the two printouts side by side.",
-          "speaker": "Dresh",
-          "dialogue": "Copycat? Or they knew each other?",
-          "narration": null
-        },
-        {
-          "type": "narration",
-          "text": "Noa shakes her head slowly. Her throat feels tight. She has read those words before — not in a case file."
-        },
-        {
-          "type": "narration",
-          "text": "She goes home and opens her journal to the entry dated three years ago. There it is. Her own handwriting. I already said goodbye to everyone who mattered."
-        },
-        {
-          "type": "narration",
-          "text": "She had written that on the worst night of her life. She had never shown it to anyone."
-        }
+      "title": "The Lightning Strike",
+      "images": [
+        "assets/chapters/5_1/1.jpg",
+        "assets/chapters/5_1/2.jpg",
+        "assets/chapters/5_1/3.jpg",
+        "assets/chapters/5_1/4.jpg"
       ]
     },
     {
       "storyId": "8",
       "id": "8_1",
       "number": 1,
-      "title": "A Roof, A Heir, and a Headache",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "Bram had been retired for exactly eleven days when the ceiling collapsed."
-        },
-        {
-          "type": "scene",
-          "narration": "To be fair, it was less a collapse and more a directed impact — something small and fast had come through the roof at high speed. That something was currently groaning in a pile of plaster.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "Bram stepped over the debris with the weary resignation of a man who had survived seventeen sieges.",
-          "speaker": "Bram",
-          "dialogue": "You alive?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "The pile of plaster sat up. Beneath it: a child, roughly twelve, with a split lip and the bearing of someone who expected people to bow.",
-          "speaker": "Child",
-          "dialogue": "I am Elara Voss, Third Heir to the Cinderstone Throne, and I require your assistance.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Bram",
-          "dialogue": "You require a doctor and a mason.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Elara",
-          "dialogue": "There are four assassins approximately two minutes behind me.",
-          "narration": null
-        },
-        {
-          "type": "narration",
-          "text": "Bram looked at his ceiling. Then at the child. Then at his very comfortable armchair, which he had specifically purchased for retirement."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Bram",
-          "dialogue": "...How did you find this place?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Elara",
-          "dialogue": "You are listed in the Imperial Registry as 'Brannick, Deceased.' I assumed that meant you were hiding.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Bram",
-          "dialogue": "I was hiding from things like this.",
-          "narration": "He reaches for his sword, which he had also specifically hung up for retirement."
-        }
+      "title": "The Palace Maid",
+      "images": [
+        "assets/chapters/8_1/1.jpg",
+        "assets/chapters/8_1/2.jpg",
+        "assets/chapters/8_1/3.jpg",
+        "assets/chapters/8_1/4.jpg",
+        "assets/chapters/8_1/5.jpg"
       ]
-    },
+    }
+    ,
     {
       "storyId": "9",
       "id": "9_1",
       "number": 1,
-      "title": "What the Dead Carry",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "Ji-ho has a rule: never look at a living person's hands."
-        },
-        {
-          "type": "narration",
-          "text": "On the dead, the emotions are fixed — grief, fear, relief, regret. She learned them all by the time she was twenty. They don't move, don't shift, don't reach back."
-        },
-        {
-          "type": "scene",
-          "narration": "She preps the morning intake alone, as she prefers it. The overnight staff have gone. The hallways are white and quiet.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "narration",
-          "text": "The new arrival comes in at 6:14am. Male, mid-twenties, listed as a medical anomaly — found unconscious, no detectable pulse for eleven minutes, then spontaneous revival. The ER didn't know what to do with him, so they sent him here for monitoring."
-        },
-        {
-          "type": "dialogue",
-          "narration": "Ji-ho checks the paperwork without looking up.",
-          "speaker": "Ji-ho",
-          "dialogue": "He's alive?",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Orderly",
-          "dialogue": "Technically, yes. Vitals are stable now. They just need somewhere quiet to keep him until the doctors figure out what happened.",
-          "narration": null
-        },
-        {
-          "type": "narration",
-          "text": "Ji-ho nods. Glances toward the room. And stops."
-        },
-        {
-          "type": "narration",
-          "text": "His hands, resting on the blanket, show something she has never seen on a living person — an emotion with no name she has ever learned. Not grief. Not fear. Something like longing, but older. Like missing a place that doesn't exist yet."
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Ji-ho",
-          "dialogue": "(quietly) What happened to you?",
-          "narration": null
-        }
-      ]
-    },
-    {
-      "storyId": "10",
-      "id": "10_1",
-      "number": 1,
-      "title": "The Map of What Isn't",
-      "panels": [
-        {
-          "type": "narration",
-          "text": "In the Sunken Kingdoms, cartographers are the most feared profession. They do not draw what is. They draw what was — and sometimes, what has stopped being true."
-        },
-        {
-          "type": "scene",
-          "narration": "Ren is seventeen and still an apprentice, which is embarrassing. Most cartographers earn their stamp by fourteen.",
-          "speaker": null,
-          "dialogue": null
-        },
-        {
-          "type": "dialogue",
-          "narration": "Master Olia doesn't sugarcoat it.",
-          "speaker": "Master Olia",
-          "dialogue": "The problem isn't your technique. Your lines are precise. Your scale is faultless. The problem is you keep drawing things that aren't on the source maps.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Ren",
-          "dialogue": "But they're there. I can see them when I look at the territory.",
-          "narration": null
-        },
-        {
-          "type": "dialogue",
-          "speaker": "Master Olia",
-          "dialogue": "You see things that don't exist, and that is not a skill. It is a liability.",
-          "narration": null
-        },
-        {
-          "type": "narration",
-          "text": "That evening, Ren is sorting the archive when he finds it — a sealed map case with no label, tucked behind forty years of water-survey scrolls."
-        },
-        {
-          "type": "narration",
-          "text": "Inside is a single map. Clean, precise, expertly drawn. It shows a city Ren has never heard of: Vael's Rest, population 40,000, located three days east of the capital."
-        },
-        {
-          "type": "narration",
-          "text": "The date in the corner reads: Year 14, Post-Sinking. The current year is Year 7."
-        },
-        {
-          "type": "dialogue",
-          "narration": "Ren stares at it for a long time.",
-          "speaker": "Ren",
-          "dialogue": "...This was made seven years from now.",
-          "narration": null
-        }
+      "title": "Ticking Echoes",
+      "images": [
+        "assets/chapters/9_1/1.jpg",
+        "assets/chapters/9_1/2.jpg",
+        "assets/chapters/9_1/3.jpg"
       ]
     }
   ]
