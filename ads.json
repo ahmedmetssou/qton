@@ -32,6 +32,6 @@
   "rules": {
     "showAdsIfViewsGreaterThan": 1000,
     "frequencyCapSeconds": 120,
-    "interstitialClickThreshold": 4
+    "interstitialClickThreshold": 1
   }
 }
