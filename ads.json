@@ -1,0 +1,20 @@
+{
+"activeProvider": "admob",
+"testMode": true,
+"admob": {
+"appId": {"android":"ca-app-pub-xxxyyyy","ios":"ca-app-pub-xxxzzzz"},
+"banner": {"android":"ca-app-pub-xxx/aaaa","ios":"ca-app-pub-xxx/bbbb"},
+"interstitial": {"android":"ca-app-pub-xxx/cccc","ios":"ca-app-pub-xxx/dddd"},
+"rewarded": {"android":"ca-app-pub-xxx/eeee","ios":"ca-app-pub-xxx/ffff"}
+},
+"applovin": {
+"sdkKey":"YOUR_APPLOVIN_SDK_KEY",
+"banner":{"android":"[zone-or-ad-unit]","ios":"[zone-or-ad-unit]"},
+"interstitial":{"android":"...","ios":"..."},
+"rewarded":{"android":"...","ios":"..."}
+},
+"rules": {
+"showAdsIfViewsGreaterThan": 1000,
+"frequencyCapSeconds": 120
+}
+}
